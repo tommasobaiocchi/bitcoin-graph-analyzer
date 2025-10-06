@@ -1,6 +1,6 @@
 # Bitcoin Graph Analyzer
 
-A C++ project for parsing and analyzing Bitcoin transaction data through directed and undirected graph representations. 
+C++ project for parsing and analyzing Bitcoin transaction data through directed and undirected graph representations. 
 
 ## Project Overview
 
