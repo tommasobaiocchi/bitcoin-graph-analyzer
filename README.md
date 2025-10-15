@@ -37,7 +37,6 @@ The project prioritizes **performance**, **low memory usage**, and **clean archi
 2. **Graph Construction**:
    - Addresses are mapped to integer IDs for efficient indexing.
    - The directed graph maps transaction flows: address → transaction → address.
-   - The undirected graph is built by linking addresses that appear together in a transaction.
 
 3. **Graph Algorithms**:
    - **DFS** is used to compute the largest connected component.
