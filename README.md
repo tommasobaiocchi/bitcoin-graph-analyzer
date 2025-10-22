@@ -11,7 +11,7 @@ This tool reads Bitcoin transaction data from `.csv` files and constructs graphs
   - A **directed graph**, representing transaction flows.
   - An **undirected graph**, representing address connectivity.
 - Computes:
-  - The **largest connected component** of the undirected graph. 
+  - The **largest connected component** of the undirected graph.
   - Whether the **directed graph is acyclic**.
   - Whether **there exists a path** between two given addresses with a total flow exceeding a given threshold.
 
